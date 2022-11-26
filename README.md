@@ -10,13 +10,13 @@ API_Final - законченная версия API для yatube.
 
 - Клонировать репозиторий и перейти в него в командной строке:
 ```
-git@github.com:LazarevaKate/api_final_yatube.git
+git@github.com:makhotin07/api_final_yatube.git
 ```
 
 - Cоздать и активировать виртуальное окружение:
 ```
 python3 -m venv env
-source env/bin/activate
+source venv/bin/activate
 ```
 - Установить зависимости из файла requirements.txt:
 ```
